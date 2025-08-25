@@ -1,0 +1,5 @@
+{
+  "name": "Surprise Ville E-commerce",
+  "description": "A modern e-commerce web application inspired by Surprise Ville, designed for unique gifts and experiences. It features a product catalog, category filtering, and product detail pages, all built with React and styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
